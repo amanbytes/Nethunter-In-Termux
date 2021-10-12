@@ -10,8 +10,7 @@ banner() {
 }
 
 install() {
-    FILE = install-nethunter-termux
-    if test -f "$FILE"; then
+    if test -f "install-nethunter-termux"; then
       printf "\033[36m Executing install-nethunter-termux \033[0m\n"
       sleep 2
       ./install-nethunter-termux
