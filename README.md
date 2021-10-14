@@ -1,6 +1,13 @@
 # NetHunter-In-Termux
 A simple bash script to install Kali Linux NetHunter in an unrooted android device using Termux. Just clone this repository in your Termux and then run ``` nethunter-in-termux.sh ``` file.
 
+## Official tutorial blog and video
+
+[**3 Easy Steps To Install Nethunter In Android**](https://amanbytes.com/install-kali-nethunter-in-android/)
+
+
+[![Install Nethunter In Termux](https://img.youtube.com/vi/hwVwApYxbVw/0.jpg)](http://www.youtube.com/watch?v=hwVwApYxbVw)
+
 ## Installation
 
 ```
@@ -31,4 +38,4 @@ chmod +x nethunter-in-termux.sh
 ```nethunter -r``` - start Kali NetHunter CLI as root.
 
 
-Read step-by-step guide in installing NetHunter In Termux without root by [clicking here.]()
+Read step-by-step guide in installing NetHunter In Termux without root by [clicking here.](https://amanbytes.com/install-kali-nethunter-in-android/)
